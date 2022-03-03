@@ -1,3 +1,3 @@
 # reporter
 
-This is made ot write technical reports
+This is made to write technical reports
